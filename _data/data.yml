@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Qifan Yang
+    tagline: Back-End Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: gtqifan@gmail.com
+    phone: +1 (404)324-0656
+    timezone: 
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: me.gtqifan.tech #do not add http://
+    linkedin: gtqifan
+    xing: 
+    github: gtqifan
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,19 +31,22 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: German
+        level: Intermediate
 
-      - idiom: Spanish
-        level: Professional
+      - idion: Japanese
+        level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Scuba Diving
         link:
 
       - item: Cooking
