@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/1Tt3iQSRsFmHEsAwEtereLOBl9tazsSQC/view
 
     languages:
       - idiom: English
@@ -55,24 +55,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi there :) I am Qifan Yang, and I am pursuing a Master's degree in Computer Science at the Georgia Institute of Technology. Actively looking for an internship position where I can utilize my 5 years of CS experience in backend developing and/or networking in Summer 2023. 
+
+      I had a solid foundation and gained more experience in fundamental or low-level CS branches, such as networking, operating systems, and databases. 
+
+      Previous member of Leaf, a startup team developing note-taking software that aims to speed up the input with the help of deep learning from lecture materials. Also was a member of the tech-dev section of Georgia Tech China Student and Scholar Association (GTCSSA) and the software we developed has benefited hundreds of new Tech students to get familiar with the campus and surroundings. During my internship at ADP, the backend service that I built for a client data questionnaire will be used and deployed in the real production environment. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.S./M.S. Program in Computer Science
+      university: Georgia Institute of Technology
+      time: Aug 2019 - Dec 2023
+      GPA: 3.96/4
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.
+        
+        Highest Honor for Bachelor's degree at Georgia Tech. Faculty Honors for 4 semesters (Fall 2019 to Fall 2020, and Fall 2021) and Dean's List Honor for Spring 2021.
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
