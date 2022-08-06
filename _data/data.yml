@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: gtqifan@gmail.com
-    phone: +1 (404)324-0656
+    phone: +1 (404) 324-0656
     timezone: 
     citizenship:
     website: me.gtqifan.tech #do not add http://
@@ -65,10 +65,10 @@ education:
       university: Georgia Institute of Technology
       time: Aug 2019 - Dec 2023
       GPA: 3.96/4
-      details: |
-        Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.
-        
+      details: |        
         Highest Honor for Bachelor's degree at Georgia Tech. Faculty Honors for 4 semesters (Fall 2019 to Fall 2020, and Fall 2021) and Dean's List Honor for Spring 2021.
+
+        Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.
 experiences:
     - role: Graduate Teaching Assistant
       time: Aug 2022 - Present
@@ -79,7 +79,10 @@ experiences:
       time: Jun 2022 - Aug 2022
       company: ADP, Alpharetta
       details: |
-        Developed a microservice backend of client data questionnaire for database operations and user profile verification and integrated the service with the other three microservices in the production environment with Groovy, Spring Boot, Axon Server, MongoDB, and GraphQL. Experienced in software engineering process in business production. Managed the project by Maven, tested by Spock, deployed with Jenkins, and developed under the Scrum framework. Collaborated with the intern implementing the frontend side to design a data storage structure and REST APIs and conducted final testing. The new service decreases the workload of district managers, reducing the communication between D.M. and clients by 30%.
+        - Developed a microservice backend of client data questionnaire for database operations and user profile verification and integrated the service with the other three microservices in the production environment with Groovy, Spring Boot, Axon Server, MongoDB, and GraphQL. 
+        - Experienced in software engineering process in business production. Managed the project by Maven, tested by Spock, deployed with Jenkins, and developed under the Scrum framework. 
+        - Collaborated with the intern implementing the frontend side to design a data storage structure and REST APIs and conducted final testing. 
+        - The new service decreases the workload of district managers, reducing the communication between D.M. and clients by 30%.
     - role: Undergraduate Teaching Assistant
       time: Aug 2020 - May 2021
       company: Georgia Tech, Atlanta
@@ -112,11 +115,14 @@ skills:
       - name: SQL
         level: 90%
 
-      - name: Javascript
+      - name: Javascript (Node.js)
         level: 85%
 
-      - name: Node.js
-        level: 85%
+      - name: Spring
+        level: 80%
+
+      - name: Python
+        level: 80%
 
       - name: HTML5 & CSS
         level: 75%
