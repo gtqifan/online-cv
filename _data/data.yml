@@ -104,11 +104,6 @@ projects:
       - title: Leaf Notes
         link: "https://www.leafnotes.net/"
         tagline: "A note-taking software that aims to speed up user input through extracting and predicting upcoming words or sentences from relevant course materials (e-textbook, slides, handouts)."
-        details: |
-          Test TestTestTestTestTestTestTestTestTest
-          TestTestTestTestTest
-          - TestTestTestTest
-          - TestTestTestTest
 
 skills:
     title: Skills &amp; Proficiency
