@@ -104,25 +104,30 @@ projects:
       - title: Leaf Notes
         link: "https://www.leafnotes.net/"
         tagline: "A note-taking software that aims to speed up user input through extracting and predicting upcoming words or sentences from relevant course materials (e-textbook, slides, handouts)."
+        details: |
+          Test TestTestTestTestTestTestTestTestTest
+          TestTestTestTestTest
+          - TestTestTestTest
+          - TestTestTestTest
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java
-        level: 90%
+        level: 95%
 
       - name: SQL
-        level: 90%
+        level: 95%
 
       - name: Javascript (Node.js)
-        level: 85%
+        level: 90%
 
       - name: Spring
-        level: 80%
+        level: 85%
 
       - name: Python
-        level: 80%
+        level: 85%
 
       - name: HTML5 & CSS
-        level: 75%
+        level: 80%
