@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi there :) I am Qifan Yang, and I am pursuing a Master's degree in Computer Science at the Georgia Institute of Technology. Actively looking for an internship position where I can utilize my 5 years of CS experience in backend developing and/or networking in Summer 2023. 
+      Hi there :) I am Qifan Yang, and I am pursuing a Master's degree in Computer Science at the Georgia Institute of Technology. Actively looking for a new-grad SDE position where I can utilize my 5 years of CS experience in backend developing and/or networking after my graduation in May 2023. 
 
       I had a solid foundation and gained more experience in fundamental or low-level CS branches, such as networking, operating systems, and databases. 
 
@@ -63,7 +63,7 @@ career-profile:
 education:
     - degree: B.S./M.S. Program in Computer Science
       university: Georgia Institute of Technology
-      time: Aug 2019 - Dec 2023
+      time: Aug 2019 - May 2023
       GPA: 3.96/4
       details: |        
         Highest Honor for Bachelor's degree at Georgia Tech. Faculty Honors for 4 semesters (Fall 2019 to Fall 2020, and Fall 2021) and Dean's List Honor for Spring 2021.
