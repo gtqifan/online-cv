@@ -64,7 +64,7 @@ education:
     - degree: B.S./M.S. Program in Computer Science
       university: Georgia Institute of Technology
       time: Aug 2019 - May 2023
-      GPA: 3.96/4
+      GPA: 4.00/4
       details: |        
         Highest Honor for Bachelor's degree at Georgia Tech. Faculty Honors for 4 semesters (Fall 2019 to Fall 2020, and Fall 2021) and Dean's List Honor for Spring 2021.
 
@@ -74,7 +74,7 @@ experiences:
       time: Aug 2022 - Present
       company: Georgia Tech, Atlanta
       details: |
-        Graduate Teaching Assistant (GTA) of CS 3251, Computer Networking I, with Dr. Ellen Zegura and Dr. Ahmed Saeed in Fall 2022. The course is an introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. 
+        Graduate Teaching Assistant (GTA) of CS 3251, Computer Networking I, in Fall 2022 and Spring 2023. The course is an introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Responsible for designing and grading written/programming assignments and holding weekly Q&A sessions (office-hour).
     - role: Software Engineer Intern
       time: Jun 2022 - Aug 2022
       company: ADP, Alpharetta
