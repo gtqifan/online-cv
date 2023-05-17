@@ -15,7 +15,7 @@ sidebar:
     email: gtqifan@gmail.com
     phone: +1 (404) 324-0656
     timezone: 
-    citizenship:
+    citizenship: China
     website: gtqifan.tech #do not add http://
     linkedin: gtqifan
     xing: 
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1X5KAT3gt4Kmgog7VuLkHK1LqOVi7ybF-/view
+    pdf: https://drive.google.com/file/d/1nitgq7NNa-NIs0PiX3XDSINt9PedWeS1/view
 
     languages:
       - idiom: English
@@ -71,7 +71,7 @@ education:
         Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.Activities and societies: Member of GTCSSA, Big Data, Big Impact club and WebDev club; Participated in HackGTeeny 2019.
 experiences:
     - role: Graduate Teaching Assistant
-      time: Aug 2022 - Present
+      time: Aug 2022 - May 2023
       company: Georgia Tech, Atlanta
       details: |
         Graduate Teaching Assistant (GTA) of CS 3251, Computer Networking I, in Fall 2022 and Spring 2023. The course is an introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Responsible for designing and grading written/programming assignments and holding weekly Q&A sessions (office-hour).
